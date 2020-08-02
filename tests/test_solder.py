@@ -1,5 +1,5 @@
 from nose2.tools import *
-from import Soldier
+from fight import Soldier
 
 
 def test_stop():
