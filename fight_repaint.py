@@ -1,5 +1,5 @@
 import pygame
-from fight_V_1a7 import *
+from import *
 
 pygame.init()
 win = pygame.display.set_mode((1000, 600))
